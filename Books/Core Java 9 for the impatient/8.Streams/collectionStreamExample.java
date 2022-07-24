@@ -7,7 +7,7 @@ import java.util.List;
 
 /*
  * Core Java SE 9 for the impatient : Counter words from
- * text > 12 characters
+ * text > 12 characters long
  * 
 */
 
