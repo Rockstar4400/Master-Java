@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Books/Core Java 9 for the impatient/Core Java 9 for the impatient.iml" filepath="$PROJECT_DIR$/Books/Core Java 9 for the impatient/Core Java 9 for the impatient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Books/Core Java 9 for the impatient/ExamplesInterface/ExamplesInterface.iml" filepath="$PROJECT_DIR$/Books/Core Java 9 for the impatient/ExamplesInterface/ExamplesInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Books/Core Java 9 for the impatient/Interfaces/Interfaces.iml" filepath="$PROJECT_DIR$/Books/Core Java 9 for the impatient/Interfaces/Interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Books/Java 9 for Programmers/Java 9 for Programmers.iml" filepath="$PROJECT_DIR$/Books/Java 9 for Programmers/Java 9 for Programmers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KnowledgeLearned/KnowledgeLearned.iml" filepath="$PROJECT_DIR$/KnowledgeLearned/KnowledgeLearned.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Master-Java.iml" filepath="$PROJECT_DIR$/.idea/Master-Java.iml" />
+    </modules>
+  </component>
+</project>
