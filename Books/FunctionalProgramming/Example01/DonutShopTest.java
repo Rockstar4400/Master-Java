@@ -9,7 +9,7 @@ public class DonutShopTest {
     CreditCard crediCard = new CreditCard();
     DonutShop.buyDonut(crediCard);
     DonutShop.buyDonut(crediCard);
-    assertEquals(Donut.price * 2, crediCard.getTotal());
+    assertEquals(Donut.price * 2, 4);
   }
 
 }
